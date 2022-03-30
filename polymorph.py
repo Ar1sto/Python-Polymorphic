@@ -1,8 +1,10 @@
 #/usr/bin/Python3
 #/usr/bin/env Python3
 #Author: Ar1sto (https://github.com/Ar1sto) | Discord: Omniscius#6583
+
 from random import choice as polyfunction
 polycode = ("one()", "two()", "three()")
+
 class polymorphiccode():
 
 # Funktion 1: Normaler String
