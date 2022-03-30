@@ -1,7 +1,7 @@
 # Simple Python-Polymorphic Code Example
 English:
         
-This code should simplify the principle behind polymorphism. There are different ways to make code polymorph, but this method is easy to understand is clear and fun. Which code is executed can be linked to            conditions. Maybe you can even improve the code or you can customize it to your needs. I hope I can bring you closer to the principle of polymorphism. - AR1STO
+This code should simplify the principle behind polymorphism. There are different ways to make code polymorph, but this method is easy to understand is clear and fun. Which code is executed can be linked to conditions. Maybe you can even improve the code or you can customize it to your needs. I hope I can bring you closer to the principle of polymorphism. - Ar1sto
 
 Deutsch:
          
